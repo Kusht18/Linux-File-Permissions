@@ -11,14 +11,7 @@ Task is to examine existing permissions on the file system and determine if the 
 
 I used linux commands shown below to determine the current permissions in the specified directory. We can see that the research_team is the group that owns the files in this directory. 
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/1.png)
 
 ## Describe the permissions string
 
