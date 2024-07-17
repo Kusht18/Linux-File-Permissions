@@ -33,10 +33,7 @@ I used the linux commands shown below to change file permissions according to th
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/2.png)
 
 
 
@@ -44,10 +41,8 @@ I used the linux commands shown below to change file permissions according to th
 
 Used linux commands below to change file permissions on a hidden file becauseThe file `.project_x.txt` is a hidden file that has been archived and should not be written to by anyone. (The user and group should still be able to read this file.) 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/Screenshot%202024-07-17%20084518.png)
 
 
 
@@ -57,10 +52,8 @@ Used linux commands  below to change directory permissions because only the `res
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/Screenshot%202024-07-17%20084533.png)
 
 
 
