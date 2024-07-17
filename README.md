@@ -11,7 +11,7 @@ Task is to examine existing permissions on the file system and determine if the 
 
 I used linux commands shown below to determine the current permissions in the specified directory. We can see that the research_team is the group that owns the files in this directory. 
 
-![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/1.png)
+![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/pic1)
 
 ## Describe the permissions string
 
@@ -33,7 +33,7 @@ I used the linux commands shown below to change file permissions according to th
 
 
 
-![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/2.png)
+![image search api](https://github.com/Kusht18/Linux-File-Permissions/blob/main/pic2)
 
 
 
@@ -42,7 +42,7 @@ I used the linux commands shown below to change file permissions according to th
 Used linux commands below to change file permissions on a hidden file becauseThe file `.project_x.txt` is a hidden file that has been archived and should not be written to by anyone. (The user and group should still be able to read this file.) 
 
 
-![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/Screenshot%202024-07-17%20084518.png)
+![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/pic3)
 
 
 
@@ -53,7 +53,7 @@ Used linux commands  below to change directory permissions because only the `res
 
 
 
-![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/Screenshot%202024-07-17%20084533.png)
+![alt_text](https://github.com/Kusht18/Linux-File-Permissions/blob/main/pic4)
 
 
 
